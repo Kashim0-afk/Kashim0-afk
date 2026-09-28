@@ -18,4 +18,4 @@ Junior cybersecurity analyst in formazione, con base in networking e sistemi. Ho
 
 ---
 
-*Hi, I'm Matteo: junior cybersecurity analyst in training (networking, SOC, incident response, Python). Pinned projects above.*
+*Hi, I'm Kashim: IT Specialist always in training.. Pinned projects above.*
