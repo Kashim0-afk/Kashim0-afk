@@ -13,7 +13,7 @@ IT Specialist sempre in formazione..
 | [Universal Cipher Analyzer](https://github.com/Kashim0-afk/Universal-Cipher-Analyzer) | Crittoanalisi di cifrari classici (Cesare, Vigenère) con punteggio lingua IT/EN |
 | [Advanced Security Suite](https://github.com/Kashim0-afk/Advanced-Security-Suite) | CLI Python di studio: analisi password, port scan, monitoraggio di rete |
 
-**Strumenti:** Python · JavaScript · PowerShell · Linux · Cisco IOS / Packet Tracer · Git
+**Strumenti:** Python · JavaScript · PowerShell · Linux · Cisco IOS / Packet Tracer · Git ecc ecc ecc
 
 ---
 
