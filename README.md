@@ -1,8 +1,7 @@
-### Ciao, sono Matteo 👋
+### Ciao, sono Kashim 👋
 
-Junior cybersecurity analyst in formazione, con base in networking e sistemi. Ho seguito il percorso **Junior System and CyberSecurity Analyst** di Generation Italy (Linux, Cisco CCNA 1-3, CyberOps, Python) e costruisco strumenti per studiare e lavorare meglio.
+IT Specialist sempre in formazione..
 
-**Mi interessano:** SOC e blue team, incident response, networking, automazione con Python.
 
 #### Progetti in evidenza
 
